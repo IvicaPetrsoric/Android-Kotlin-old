@@ -1,7 +1,7 @@
 # Android-Kotlin
 
 Exploring basics of Kotlin.
-Building simple YouTube demo app with Kotlin.
+Building simple YouTube demo app.
 
 Core Features:
 - Custom cells, XML
